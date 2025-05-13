@@ -1,0 +1,7 @@
+face_crop_model
+train_dataset
+cropped_train_dataset
+cropped_test_dataset
+output/siamese_network
+notebooks
+lfw_funneled
